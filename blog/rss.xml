@@ -4,10 +4,16 @@
         <title>Betaflight Blog</title>
         <link>https://freasy.github.io/betaflight.com/blog</link>
         <description>Betaflight Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ANNOUCEMENT new wiki]]></title>
+            <link>https://freasy.github.io/betaflight.com/blog/2023/01/08/new-wiki</link>
+            <guid>/2023/01/08/new-wiki</guid>
+            <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://freasy.github.io/betaflight.com/blog/welcome</link>
