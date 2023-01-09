@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[622],{3673:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/betaflight.com/blog/tags/hello","allTagsPath":"/betaflight.com/blog/tags","count":2}')}}]);
