@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freasy.github.io/betaflight.com/blog</id>
-    <title>Betaflight Blog</title>
+    <title>Betaflight News</title>
     <updated>2023-01-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freasy.github.io/betaflight.com/blog"/>
     <subtitle>Betaflight Blog</subtitle>
     <icon>https://freasy.github.io/betaflight.com/img/logo_fb.png</icon>
+    <rights>Copyright © 2023 All rights reserved Team Betaflight - Built with Docusaurus.</rights>
     <entry>
         <title type="html"><![CDATA[ANNOUCEMENT new wiki]]></title>
         <id>/2023/01/08/new-wiki</id>
