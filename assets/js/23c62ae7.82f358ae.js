@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[32],{7667:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/betaflight.com/blog/tags/docusaurus","allTagsPath":"/betaflight.com/blog/tags","count":2}')}}]);

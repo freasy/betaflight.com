@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[561],{4577:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/betaflight.com/blog/welcome"},{"title":"MDX Blog Post","permalink":"/betaflight.com/blog/mdx-blog-post"}]}')}}]);
