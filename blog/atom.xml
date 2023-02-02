@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ahmels.org/blog</id>
     <title>Betaflight News</title>
-    <updated>2023-01-29T09:11:32.000Z</updated>
+    <updated>2023-01-31T16:11:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.ahmels.org/blog"/>
     <subtitle>Betaflight Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[New Speed Record for “Fastest ground speed by a battery-powered remote-controlled (RC) quadcopter.”]]></title>
         <id>/New World Record for Fastest Drone</id>
         <link href="https://www.ahmels.org/blog/New World Record for Fastest Drone"/>
-        <updated>2023-01-29T09:11:32.000Z</updated>
+        <updated>2023-01-31T16:11:12.000Z</updated>
         <summary type="html"><![CDATA[Its simply a case of "ICYMI". Yes folks Betaflight, albeit an earlier version than current, was the firmware behind the most recent record breaking success story for the “Fastest ground speed by a battery-powered remote-controlled (RC) quadcopter.”.]]></summary>
         <content type="html"><![CDATA[<p>Its simply a case of "ICYMI". Yes folks Betaflight, albeit an earlier version than current, was the firmware behind the most recent record breaking success story for the “Fastest ground speed by a battery-powered remote-controlled (RC) quadcopter.”.</p><p>The Guinness World Records has granted the title to Ryan Lademann (USA), using his custom built drone called the XLR V3 Red. This drone powered its way to the record books by hitting 224mph (360kmh). Yes thats right folks this drone nearly hit 200knots (195knots). Many light aircraft would love to reach those speeds. The record attempt was made in Scottsdale, Arizona, USA, on 8 November 2022. What a way to finish out the year.</p><p>The team here at Betaflight congratulate Ryan on his successful attempt, and are very happy the firmware played a small part in that success. now how can we get Ryan to update his firmware ;).</p><p>For some more details on the attempt:</p><ul><li><p>For a clip of the attempt: <a href="https://youtu.be/J3WwtByvSI0?t=21" target="_blank" rel="noopener noreferrer">https://youtu.be/J3WwtByvSI0?t=21</a></p></li><li><p>If your are so inclined the black box log of the attempt can be analysed here: <a href="https://drive.google.com/file/d/1K1JLV_f3W0z1dRSP84hw3UEqv5Fc_b5P/view" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1K1JLV_f3W0z1dRSP84hw3UEqv5Fc_b5P/view</a></p></li><li><p>Don't forget to check out Ryan's page for more details on the drone: <a href="https://quad-star-drones.com/xlr-v3/" target="_blank" rel="noopener noreferrer">https://quad-star-drones.com/xlr-v3/</a></p></li><li><p>And last but not least, the details from GWR themselves: <a href="https://www.guinnessworldrecords.com/world-records/464800-fastest-ground-speed-by-a-battery-powered-remote-controlled-quadcopter" target="_blank" rel="noopener noreferrer">https://www.guinnessworldrecords.com/world-records/464800-fastest-ground-speed-by-a-battery-powered-remote-controlled-quadcopter</a></p></li></ul>]]></content>
     </entry>
